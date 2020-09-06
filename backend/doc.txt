@@ -1,0 +1,2 @@
+aplicar o insert com req.params e req.query
+
